@@ -1,0 +1,8 @@
+$$$
+Here is your free hug {0}.  
+You have been hugged {1} times.  
+
+***
+*I'm a bot still is school.  
+If you have any feedback please message /u/josh177*
+$$$

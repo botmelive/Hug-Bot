@@ -1,0 +1,1 @@
+Phrase = ["!hug", "!hugs"]
