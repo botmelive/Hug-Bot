@@ -1,10 +1,10 @@
 # Hug-Bot
 
-Hug Bot is a python based Reddit bot that uses Python Reddit API Wrapper (PRAW)
+Hug Bot is a python based Reddit bot that uses Python Reddit API Wrapper (PRAW)  
 It comments when a given comment contains the words !hug or !hugs
 
 # Commands
-* !hug - *Its comments with a response in Message.txt*
+* !hug - *It comments with a response in Message.txt*
 
 # Files
 * bot.py     -*Execute this to start the bot*
