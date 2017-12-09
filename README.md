@@ -1,8 +1,12 @@
 # Hug-Bot
-A Reddit bot which gives gives free virtual hugs
 
-To summon the bot the comment must contain and words in Phrases.py
+Hug Bot is a python based Reddit bot that uses Python Reddit API Wrapper (PRAW)
+It comments when a given comment contains the words !hug or !hugs
 
-Fill up your credentials in DataBase/cred.json
+# Commands
+* !hug - *Its comments with a response in Message.txt*
 
-Start the bot by running bot.py
+# Files
+* bot.py     -*Execute this to start the bot*
+* redditf.py -*Bot dependency file all the functions are contained in this file*
+* Phrases.py -*All the phrases which the bot will look for*
